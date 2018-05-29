@@ -1,0 +1,16 @@
+{
+    "name": "mau/testing",
+    "require": {
+        "phpunit/phpunit": "5.0",
+        "catfan/medoo": "^1.5",
+        "monolog/monolog": "^1.23"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Per Berglund",
+            "email": "Per.berglund92@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
