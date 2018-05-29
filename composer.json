@@ -1,6 +1,7 @@
 {
     "name": "mau/testing",
-    "require": {
+"description":"lite testning",   
+ "require": {
         "phpunit/phpunit": "5.0",
         "catfan/medoo": "^1.5",
         "monolog/monolog": "^1.23"
